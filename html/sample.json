@@ -1,0 +1,102 @@
+{
+    "amica": {
+        "date": "1.6.2015", 
+        "list": [
+            {
+                "Allergies": null, 
+                "Name": "Broileri-juuresvuokaa (L ,G ,A)", 
+                "Nokia Price": "6,20  \u20ac",
+                "Price": "8,90  \u20ac"
+            }, 
+            {
+                "Allergies": null, 
+                "Name": "Lihapy\u00f6ryk\u00f6it\u00e4 tomaatti-kotijuustokastikeessa (L ,A)", 
+                "Nokia Price": "7,05  \u20ac", 
+                "Price": "9,70  \u20ac"
+            }, 
+            {
+                "Allergies": null, 
+                "Name": "Kasviksia inkiv\u00e4\u00e4rikastikkeessa (L ,G ,M ,* ,Veg ,VS)", 
+                "Nokia Price": "6,20  \u20ac", 
+                "Price": "8,90  \u20ac"
+            }, 
+            {
+                "Allergies": null, 
+                "Name": "Kasvissosekeittoa (G ,VL ,* ,A)", 
+                "Nokia Price": "4,70  \u20ac/kg", 
+                "Price": "5,70  \u20ac/kg"
+            }, 
+            {
+                "Allergies": null, 
+                "Name": "Salaatti: Basilikalla ja hunajalla maustettua broileria (L ,G ,M), Sitrusmarinoituja katkarapuja (L ,G ,M ,A), Grana padana -juustoa (G ,L)", 
+                "Nokia Price": "16,40  \u20ac/kg", 
+                "Price": "16,40  \u20ac/kg"
+            }, 
+            {
+                "Allergies": null, 
+                "Name": "Paistettuja ahvenfileit\u00e4 (L ,M ,* ,A), Pariloitu broilerinfilee (L ,G ,M), Porsaan sis\u00e4fileet\u00e4 (L ,G ,M ,*), Ananashampurilainen (L ,M ,A), Broileria ja kasviksia hapanimel\u00e4kastikkeessa (L ,G ,M ,A)", 
+                "Nokia Price": "7,70  \u20ac", 
+                "Price": "10,30  \u20ac"
+            }, 
+            {
+                "Allergies": null, 
+                "Name": "Omenarahka (G, L, A) ()", 
+                "Nokia Price": null, 
+                "Price": null
+            }
+        ]
+    }, 
+    "iss": {
+        "date": "1.6.2015", 
+        "list": [
+            {
+                "Allergies": "L,G", 
+                "Name": "Mausteista possupataa ", 
+                "Nokia Price": "6,20 \u20ac", 
+                "Price": "8,20 \u20ac"
+            }, 
+            {
+                "Allergies": "L,G", 
+                "Name": "Broilerinsiipi\u00e4 ja wasabijugurttikastiketta ", 
+                "Nokia Price": "6,20 \u20ac", 
+                "Price": "8,20 \u20ac"
+            }, 
+            {
+                "Allergies": "L", 
+                "Name": "Kasvis-stroganoff ja piparjuuri creme fraiche ", 
+                "Nokia Price": "6,20 \u20ac", 
+                "Price": "8,20 \u20ac"
+            }, 
+            {
+                "Allergies": null, 
+                "Name": "Salaatti:Kinkku tai Marinoitu Tofu ", 
+                "Nokia Price": "6,50 \u20ac", 
+                "Price": "6,50 \u20ac"
+            }, 
+            {
+                "Allergies": "L,G", 
+                "Name": "Kes\u00e4keittoa ", 
+                "Nokia Price": "5,90 \u20ac", 
+                "Price": "5,90 \u20ac"
+            }, 
+            {
+                "Allergies": "VL", 
+                "Name": "Pinaattikalaa ja polentaa ", 
+                "Nokia Price": "10,70 \u20ac", 
+                "Price": "12,50 \u20ac"
+            }, 
+            {
+                "Allergies": "L", 
+                "Name": "Tomaatti-oliivipizzaa ", 
+                "Nokia Price": "7,00 \u20ac", 
+                "Price": "8,80 \u20ac"
+            }, 
+            {
+                "Allergies": "L,G", 
+                "Name": "Vanilja-rahkajugurttia ", 
+                "Nokia Price": null, 
+                "Price": null
+            }
+        ]
+    }
+}

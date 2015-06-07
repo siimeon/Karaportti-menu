@@ -1,0 +1,13 @@
+body {
+      padding-top: 50px;
+}
+
+.jumbotron {
+    margin-top: 10px;
+}
+
+#map {
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
