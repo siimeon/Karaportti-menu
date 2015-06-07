@@ -16,7 +16,7 @@ and publish results as artifact so they can be shown as web pages.
 I have made this project available Jenkins project in Jenkins container
 
 ```
-docker run -d -p 8080:8080 shaakana/kara_menu
+docker run -d -p 8080:8080 siimeon/kara_menu
 ```
 
 ### Licence
