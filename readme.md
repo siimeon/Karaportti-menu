@@ -11,13 +11,6 @@ HTML (AngularJS) frontend.
 I have made very simple development plan for this project. My development is to run python parsing every day 
 and publish results as artifact so they can be shown as web pages.
 
-## Test in Docker container
-
-I have made this project available Jenkins project in Jenkins container
-
-```
-docker run -d -p 8080:8080 siimeon/kara_menu
-```
 
 ### Licence
 
