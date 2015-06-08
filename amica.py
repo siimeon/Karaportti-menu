@@ -24,11 +24,11 @@ def price_modification(price_str):
     result = {"Nokia Price": None, "Price": None}
     str_array = price_str.split(" ")
     if len(str_array) == 6:
-        result["Nokia Price"] = str_array[1] + " \u20AC/kg"
-        result["Price"] = str_array[4] + " \u20AC/kg"
+        result["Nokia Price"] = str_array[1] + u" \u20AC/kg"
+        result["Price"] = str_array[4] + u" \u20AC/kg"
     elif len(str_array) == 8:
-        result["Nokia Price"] = str_array[1] + " \u20AC"
-        result["Price"] = str_array[5] + " \u20AC"
+        result["Nokia Price"] = str_array[1] + u" \u20AC"
+        result["Price"] = str_array[5] + u" \u20AC"
     return result
 
 def make_menu_list_obj(date, menu_obj):
