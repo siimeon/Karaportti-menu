@@ -130,7 +130,8 @@ def next_organize(data):
                 dish["Name"] = i[0].split("/")[0]
             if len(i) != 2:
                 dish["Nokia Price"] = i.pop()
-                dish["Price"] = i.pop()
+                # Here is some bug that needs to be solved
+                # dish["Price"] = i.pop()
             if len(i) == 2 or len(i) == 4:
                 dish["Allergies"] = i[1]
             list.append(dish)
