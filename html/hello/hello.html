@@ -1,18 +1,21 @@
 <div class="jumbotron">
     <div class="row">
-        <div class="col-md-6">
-        <h2>Midpoint</h2>
-            <div ng-repeat="item in data.iss.list">
-                <p ng-if='item["Nokia Price"] !== null'>{{item["Name"]}}  ({{item["Allergies"]}}) - {{item["Nokia Price"]}}</p>
-                <p ng-if='item["Nokia Price"] == null'>{{item["Name"]}} ({{item["Allergies"]}})</p>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <h2>Kara 3</h2>
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+            <h2>Amica Kara 3</h2>
             <div ng-repeat="item in data.amica.list">
                 <p ng-if='item["Nokia Price"] !== null'>{{item["Name"]}} - {{item["Nokia Price"]}}</p>
                 <p ng-if='item["Nokia Price"] == null'>{{item["Name"]}}</p>
             </div>
         </div>
+        <div class="col-md-1"></div>
     </div>
+</div>
+<div class="alert alert-warning" role="alert">
+    <strong>
+        This project does not support ISS Midpoint menu!
+    </strong>
+    ISS is using terrible website and does not offer menu with any readable feed so this project
+    will not show IIS menu before they fix their problems!
+    Please send your complains to restaurant.midpoint@iss.fi!
 </div>
